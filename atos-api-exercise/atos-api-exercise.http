@@ -1,0 +1,6 @@
+@atos_api_exercise_HostAddress = http://localhost:5131
+
+GET {{atos_api_exercise_HostAddress}}/customers/
+Accept: application/json
+
+###

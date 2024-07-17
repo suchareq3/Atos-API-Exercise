@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\atos-api-exercise.props" />
+</Project>
